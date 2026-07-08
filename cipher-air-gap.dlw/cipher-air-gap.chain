@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 504
+slug  : cipher-air-gap
+seal  : 794e9089ea86b91a035146eff10737ab5b27c9c906f7578b569dba6364079ea9
+prev  : a7bff9f2d64c5682fdfeb5381d4d3dca0c32813388a63c92d161edbba2c5a3fc
+link  : 23e82e2d03e36f255e0846ded1b4a07f2d34033ce54d6024a07548a8dcdb36a5
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
